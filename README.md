@@ -1,7 +1,7 @@
 # Money Converter
 
 # Sobre o Projeto
-O Money Converter é um aplicativo simples onde é possível ver a cotação atual do dólar e do euro e também realizar a conversão para essas duas moedas. Foi o primeiro app que desenvolvi utilizando o framework da Google, o Flutter.
+O Money Converter é um aplicativo simples onde é possível ver a cotação atual do dólar e do euro e também realizar a conversão para essas duas moedas. Foi o primeiro app que desenvolvi utilizando o toolkit do Google, o Flutter.
 
 # Layout
 
